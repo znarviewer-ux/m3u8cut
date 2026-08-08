@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://kurdmax.tv/
+https://stream.kurdmax.tv/app/kurdmax-sorani1/medialist_917977731947844006_hls.m3u8
+#EXTVLCOPT:http-referrer=https://kurdmax.tv/
+https://stream.kurdmax.tv/app/kurdmax-kurmanji2/medialist_917977731947844006_hls.m3u8
